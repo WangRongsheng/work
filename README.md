@@ -1,5 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+#### 介绍
+
 👆[查看主页（Visit MyWebsite）](www.baidu.com) 💨
 
 [![知乎](https://img.shields.io/badge/知乎-查看-blue)](https://www.zhihu.com/people/wang-rong-sheng-74)
@@ -16,9 +18,9 @@ GitHub和Gitee同时是面向开源及私有软件项目的托管平台，优秀
 - [参赛项目](https://github.com/WangRongsheng/work/blob/main/Competition.md)：比赛项目
 - [实践项目](https://github.com/WangRongsheng/work/blob/main/Practice.md)：个人课外实践项目
 
-#### 个人主页构建
+#### 构建
 
-1. 修改[]() 源代码得到个人主页；
+1. 修改[Personal homepage](https://github.com/WangRongsheng/work/blob/main/Personal%20homepage/) 源代码得到个人主页；
 2. 参考[一篇文章搞定Github API 调用 (v3）](https://segmentfault.com/a/1190000015144126) 和[用Github的Api发现stars最多开源项目](https://wangjh.blog.csdn.net/article/details/76686866) 进行热门项目的统计；
 
 ---

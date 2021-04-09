@@ -1,3 +1,6 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+[Visit MyWebsite](www.baidu.com)
+
 [![知乎](https://img.shields.io/badge/知乎-查看-blue)](https://www.zhihu.com/people/wang-rong-sheng-74)
 [![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://blog.csdn.net/u014297502?spm=1000.2115.3001.5113)
 [![Bilibili](https://img.shields.io/badge/Bilibili-查看-pink)](https://space.bilibili.com/383478933)

@@ -1,0 +1,23 @@
+<html>
+<head>
+    <script src="star_counter.js"></script> <!--引用js代码-->
+    <script>
+        function func_1() {
+            document.getElementById("demo").innerHTML = 'If not print for seconds, please refresh';
+            github_id = document.getElementById("user").value;
+            document.getElementById("demo").innerHTML = cal_github_star(github_id);
+        }
+
+    </script>
+</head>
+
+<body>
+
+输入查询的Github用户名: <input name="user" value="" type="text" id="user">
+<input name="Button" type="button" value="Calculate" onClick="func_1()">
+
+<p id="demo"></p>
+
+<p><a href="https://github.com/WangRongsheng">源代码：王荣胜</a></p>
+</body>
+</html>

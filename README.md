@@ -21,4 +21,4 @@ GitHub和Gitee同时是面向开源及私有软件项目的托管平台，优秀
 
 <p align="center">🔰版权所有&copy王荣胜 |🚩地址：河南理工大学 |💬QQ：603329354 |📁反馈意见：wrswyz@88.com</p>
 
-<center><img src="https://cdn.jsdelivr.net/gh/drew233/cdn//20191003172815.webp" height="300" width="800"></center>
+<center><img src="https://cdn.jsdelivr.net/gh/drew233/cdn//20191003172815.webp" height="350" width="1000"></center>
